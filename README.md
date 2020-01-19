@@ -18,6 +18,7 @@ Usage :
   [action]    : optionnal action
   
   actions : 
+  
     1  - Rename this media file or this folder and it's content (auto)
     2  - Move this media files to folder with same name
     3  - Move and sanitize this media files to folder with same name
